@@ -11,3 +11,5 @@ conda install -n R -c r r
 conda install -c bioconda bioconductor-edger
 conda install rscript
 conda activate
+
+edit and run run.sh
